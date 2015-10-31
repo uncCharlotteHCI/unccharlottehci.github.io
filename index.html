@@ -3,7 +3,7 @@ layout: carousel
 title: home
 ---
 
-{% assign perpage = 4 %}
+{% assign perpage = 5 %}
 {% assign tabs = 0 %}
 
 <div class="carousel-inner" role="listbox">
@@ -31,7 +31,7 @@ title: home
 				{% include card.html %}
 		{% endif %}
 		{% assign leftovers = loopindex | minus: 1 %}
-		
+
 	{% endfor %}
 
 	<!--Card Cleanup: Super Janky Solution - Fix Later-->
