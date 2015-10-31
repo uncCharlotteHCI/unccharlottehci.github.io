@@ -8,15 +8,11 @@
 
 }
 
-.logo {
+img.logo {
 	text-align: center;
 	font-size: 12px;
-	margin-bottom: 20px;
-	color: #efbf2d;
-}
-.unccLogo {
-	max-width: 200px;
-	margin: 30px;
+	margin: 25px;
+	width: 175px;
 }
 
 .faculty .caption{
@@ -218,6 +214,19 @@
 	width: 100%;
 	min-width:200px;
 	max-width:300px;
+}
+
+.crop {
+    position: relative;
+    margin:  auto;/* virtualy height needed turn don to zero */
+    width: 100%;
+    height:auto;
+}
+.cropWrap {
+    display:block;
+    height:270px;
+    line-height:150px;
+    overflow:hidden;
 }
 
 .panel.panel-default {

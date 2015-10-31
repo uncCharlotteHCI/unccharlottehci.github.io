@@ -10,8 +10,10 @@
 {% if hidden == true %}
 {% else %}
 <div class="thumbnail">
-  <img src="images/members/{{post.handle}}.{{post.filetype}}"
+  <div class="cropWrap">
+  <img class="crop" src="images/members/{{post.handle}}.{{post.filetype}}"
     alt="{{post.name}}" />
+  </div>
   <div class="caption">
 
     <h3>{{post.name}}</h3>
