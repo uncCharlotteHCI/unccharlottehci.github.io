@@ -5,55 +5,6 @@ title: home
 
 {% assign perpage = 5 %}
 {% assign tabs = 0 %}
+{% assign category = 'people' %}
 
-<div class="carousel-inner" role="listbox">
-	{% assign sitePosts = site.posts | sort: 'date'  %}
-	{% for post in sitePosts %}
-	  {% assign loopindex = forloop.index | modulo: perpage %}
-		{% if forloop.index == 1 %}
-			{% assign tabs = tabs | plus:1 %}
-			<div class="item active">
-				<div class = "container">
-					<div class = "row vertical-align">
-					{% include card.html %}
-
-		{% elsif loopindex == 1 %}
-			{% assign tabs = tabs | plus:1 %}
-
-					</div>
-				</div>
-			</div>
-			<div class="item">
-				<div class = "container">
-					<div class = "row vertical-align">
-						{% include card.html %}
-		{% else %}
-				{% include card.html %}
-		{% endif %}
-		{% assign leftovers = loopindex | minus: 1 %}
-
-	{% endfor %}
-
-	<!--Card Cleanup: Super Janky Solution - Fix Later-->
-	{% for i in (1..leftovers) %}
-		{% assign hidden=true %}
-		{% include card.html %}
-	{% endfor %}
-	<!--Div Cleanup: Super Janky Solution - Fix Later-->
-			</div>
-		</div>
-	</div>
-</div>
-
-<!-- Indicators-->
-{% assign tabs = tabs | minus:1 %}
-<ol class="carousel-indicators">
-	<li data-target="#carousel-content" data-slide-to="{{i}}" class="active"></li>
-	{% for i in (1..tabs) %}
-		<li data-target="#carousel-content" data-slide-to="{{i}}"></li>
-	{% endfor %}
-</ol>
-
-{% for post in site.posts %}
-	{% include modal.html %}
-{% endfor %}
+{%include carousel.html %}
