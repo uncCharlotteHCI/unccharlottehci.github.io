@@ -1,8 +1,14 @@
-{% if post.faculty == true %}
+
+{% if hidden == true %}
+<a href="#{{post.handle}}Modal" style="opacity:0;" class="faculty point col-md-2" data-toggle="modal"></a>
+{% elsif post.faculty == true %}
 <a href="#{{post.handle}}Modal" class="faculty point col-md-2" data-toggle="modal">
 {% else %}
 <a href="#{{post.handle}}Modal" class="point col-md-2" data-toggle="modal">
 {% endif %}
+
+{% if hidden == true %}
+{% else %}
 <div class="thumbnail">
   <img src="images/members/{{post.handle}}.{{post.filetype}}"
     alt="{{post.name}}" />
@@ -17,3 +23,4 @@
   </div>
 </div>
 </a>
+{% endif %}

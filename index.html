@@ -36,6 +36,7 @@ title: home
 
 	<!--Card Cleanup: Super Janky Solution - Fix Later-->
 	{% for i in (1..leftovers) %}
+		{% assign hidden=true %}
 		{% include card.html %}
 	{% endfor %}
 	<!--Div Cleanup: Super Janky Solution - Fix Later-->
