@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <!-- Nav Bar -->
+    {% include header.html %}
+
+    <!-- CAROUSEL CONTENT -->
+    <div id="carousel-content" class="carousel slide" data-ride="carousel">
+
+      {{content}}
+
+      <!-- Controls -->
+      <a class="carousel-control left" href="#carousel-content" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="false"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control right" href="#carousel-content" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="false"></span>
+        <span class="sr-only">Next</span>
+      </a>
+      
+    </div>
+    <!-- END OF CAROUSEL CONTENT -->
+
+    <!-- Footer -->
+    {% include footer.html %}
+
+    <script src = "http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/fix-images.js"></script>
+
+  </body>
+</html>
