@@ -1,0 +1,257 @@
+
+.cal-day-outmonth.cal-day-weekdn.cal-month-day {
+	height:75px;
+}
+
+.cal-month-box {
+	min-height:50px;
+
+}
+
+.logo {
+	text-align: center;
+	font-size: 12px;
+	margin-bottom: 20px;
+	color: #efbf2d;
+}
+.unccLogo {
+	max-width: 200px;
+	margin: 30px;
+}
+
+.faculty .caption{
+	background-color:#0C6F3E;
+}
+.faculty .thumbnail{
+	background-color:#0C6F3E;
+}
+.faculty .caption > p {
+	color:white;
+}
+
+.faculty .caption > h3 {
+	color:white;
+}
+
+.logo h1{
+	margin-bottom: 0px;
+	font-size: 52px;
+}
+.logo a, .logo a:visited, .logo a:hover, .logo a:active{
+	text-decoration: none;
+	color: inherit;
+}
+
+.notscrollable{
+	background-color: #efbf2d;
+}
+.scrollable{
+	background: -webkit-linear-gradient(rgba(239,191,45,1) , rgba(239,191,45,1) 89%, rgba(239,191,45, 0.4));
+	background: -o-linear-gradient(rgba(239,191,45,1), rgba(239,191,45,1) 89%, rgba(239,191,45,0.4));
+	background: -moz-linear-gradient(rgba(239,191,45,1), rgba(239,191,45,1) 89%, rgba(239,191,45,0.4));
+	background: linear-gradient(rgba(239,191,45,1), rgba(239,191,45,1) 89%, rgba(239,191,45, 0.4));
+}
+.scrolling{
+	background: -webkit-linear-gradient(rgba(239,191,45,0.4), rgba(239,191,45,1) 11%, rgba(239,191,45,1) 89%, rgba(239,191,45,0.4));
+	background: -o-linear-gradient(rgba(239,191,45,0.4), rgba(239,191,45,1) 11%, rgba(239,191,45,1) 89%, rgba(239,191,45,0.4));
+	background: -moz-linear-gradient(rgba(239,191,45,0.4), rgba(239,191,45,1) 11%, rgba(239,191,45,1) 89%, rgba(239,191,45,0.4));
+	background: linear-gradient(rgba(239,191,45,0.4), rgba(239,191,45,1) 11%, rgba(239,191,45,1) 89%, rgba(239,191,45,0.4));
+}
+.scrolled{
+	background: -webkit-linear-gradient(rgba(239,191,45,0.4), rgba(239,191,45,1) 11%, rgba(239,191,45,1));
+	background: -o-linear-gradient(rgba(239,191,45,0.4), rgba(239,191,45,1) 11%, rgba(239,191,45,1));
+	background: -moz-linear-gradient(rgba(239,191,45,0.4), rgba(239,191,45,1) 11%, rgba(239,191,45,1));
+	background: linear-gradient(rgba(239,191,45,0.4), rgba(239,191,45,1) 11%, rgba(239,191,45,1));
+}
+
+@media (min-width: 768px){
+    .navbar-nav {
+        margin: 0 auto;
+        display: table;
+        table-layout: auto;
+        float: none;
+        width: 100%;
+    }
+    .navbar-nav>li {
+        display: table-cell;
+        float: none;
+        text-align: center;
+    }
+}
+.navbar-nav li a{
+	padding:5px;
+}
+.navbar{
+	min-height: 10px;
+	margin-bottom: 5px;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	color: inherit;
+	background-color: inherit;
+	font-weight: bolder;
+}
+
+.row{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.scrollable-menu {
+    max-height: 370px;
+    overflow-x: hidden;
+}
+.panel{
+	border: 0;
+	border-radius: 0px;
+	max-width:420px;
+}
+
+.modal img{
+	margin: 0 10px 10px 0px;
+	max-width:130px;
+}
+.tab-pane{
+	margin-top: 15px;
+}
+
+.caption h3{
+	margin-top: 5px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.col-md-3{
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.col-md-3 .panel-title{
+	border-bottom: 1px solid black;
+	margin: 0px 15px 0px 15px;
+	padding: 15px 0px 15px 0px;
+	font-weight: bold;
+}
+.col-md-3 .panel-heading{
+	background-color: #efbf2d;
+	border: 0;
+	border-radius: 0px;
+	padding: 0;
+}
+.col-md-3 .panel-body{
+	padding: 0;
+	border: 0;
+}
+.col-md-3 .panel-body .list-group-item{
+	background-color: transparent;
+	border: 0;
+	font-size: 12px;
+	padding: 10px 15px 0px 15px;
+}
+.col-md-3 .panel-body .list-group-item-heading{
+	font-size: 14px;
+	font-weight: bold;
+}
+.col-md-3 a, .col-md-3 a:visited, .col-md-3 a:hover, .col-md-3 a:active{
+	text-decoration: none;
+	color: inherit;
+}
+
+.carousel-inner{
+	width:90%;
+	margin: auto;
+}
+.carousel-control{
+	width:8%;
+}
+.carousel-control.left{
+	background-image: none;
+	background-repeat: no-repeat;
+	color: #efbf2d;
+	margin-right: 0px;
+}
+.carousel-control.right{
+	background-image: none;
+	background-repeat: no-repeat;
+	color: #efbf2d;
+	margin-right: 0px;
+}
+.carousel-indicators {
+	bottom:-25px;
+}
+.carousel-indicators li {
+	background-color: #999;
+	background-color: rgba(70,70,70,.25);
+}
+.carousel-indicators .active {
+	background-color: #efbf2d;
+}
+
+.content{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+.footer{
+	font-size:10px;
+	text-align:center;
+	width:100%;
+}
+
+.point.col-md-2 {
+		display:inherit;
+		min-height:100%;
+		padding:0px;
+		margin:10px;
+		width:30%;
+}
+
+.thumbnail{
+	background-color: #efbf2d;
+	border: 0;
+	border-radius: 0px;
+	width:100%;
+	padding: 0px;
+	min-width:200px;
+	max-width:300px;
+	margin-bottom:0px;
+}
+.thumbnail img{
+	width: 100%;
+	min-width:200px;
+	max-width:300px;
+}
+
+.panel.panel-default {
+	background-color:#efbf2d;
+}
+
+/* solution for column height problem
+		Found @ http://codepen.io/hashem/pen/zwJaE
+*/
+.vertical-align {
+  display: flex;
+  flex-direction: row;
+}
+
+.vertical-align > [class^="col-"],
+.vertical-align > [class*=" col-"] {
+  display: flex;
+	background-color: #efbf2d;
+
+}
+
+.vertical-align > [class^="col-"] > div,
+.vertical-align > [class*=" col-"] > div {
+  /* flex: 1; */
+  flex-grow: 1;
+}
+
+.hci-calendar-header {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.hci-calendar {
+	margin: auto;
+}
+.btn-group{
+	margin: 3px;
+}
