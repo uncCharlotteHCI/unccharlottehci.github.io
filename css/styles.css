@@ -11,15 +11,24 @@
 img.logo {
 	text-align: center;
 	font-size: 12px;
-	margin: 25px;
-	width: 175px;
+	margin: 20px;
+	width: 150px;
+}
+
+img.logo.uncc {
+	margin:0px;
+}
+
+.caption {
+	height:130px;
+	background-color:#efbf2d;
+
 }
 
 .faculty .caption{
 	background-color:#0C6F3E;
 }
 .faculty .thumbnail{
-	background-color:#0C6F3E;
 }
 .faculty .caption > p {
 	color:white;
@@ -193,19 +202,17 @@ img.logo {
 }
 
 .point.col-md-2 {
-		display:inherit;
-		min-height:100%;
+		width:20%;
+		padding:10px;
+		margin:0px;
 		padding:0px;
-		margin:10px;
-		width:30%;
 }
 
 .thumbnail{
-	background-color: #efbf2d;
 	border: 0;
 	border-radius: 0px;
 	width:100%;
-	padding: 0px;
+	padding: 10px;
 	min-width:200px;
 	max-width:300px;
 	margin-bottom:0px;
@@ -231,27 +238,6 @@ img.logo {
 
 .panel.panel-default {
 	background-color:#efbf2d;
-}
-
-/* solution for column height problem
-		Found @ http://codepen.io/hashem/pen/zwJaE
-*/
-.vertical-align {
-  display: flex;
-  flex-direction: row;
-}
-
-.vertical-align > [class^="col-"],
-.vertical-align > [class*=" col-"] {
-  display: flex;
-	background-color: #efbf2d;
-
-}
-
-.vertical-align > [class^="col-"] > div,
-.vertical-align > [class*=" col-"] > div {
-  /* flex: 1; */
-  flex-grow: 1;
 }
 
 .hci-calendar-header {
