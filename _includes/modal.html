@@ -1,0 +1,22 @@
+<div class="modal fade" style="display:hidden;"id="{{post.handle}}Modal" tabindex="-1" role="dialog" aria-labelledby="maherModalLabel">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="macneilModalLabel">{{post.name}}</h4>
+			</div>
+			<div class="modal-body">
+				<img src="images/members/{{post.handle}}.{{post.filetype}}" align="left" alt="{{post.name}}" />
+				<p>
+						{{post.description}}
+				</p>
+				<p style="clear: both;">
+					Website: <a href="{{post.website}}">{{post.website}}</a>
+				</p>
+			</div>
+			<div tyle="clear: both;" class="modal-footer">
+				<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>

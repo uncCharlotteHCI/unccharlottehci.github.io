@@ -1,0 +1,19 @@
+{% if post.faculty == true %}
+<a href="#{{post.handle}}Modal" class="faculty point col-md-2" data-toggle="modal">
+{% else %}
+<a href="#{{post.handle}}Modal" class="point col-md-2" data-toggle="modal">
+{% endif %}
+<div class="thumbnail">
+  <img src="images/members/{{post.handle}}.{{post.filetype}}"
+    alt="{{post.name}}" />
+  <div class="caption">
+
+    <h3>{{post.name}}</h3>
+    <p>
+      {{post.title}}
+    </p>
+    <p style="margin-top:15px; margin-bottom:0px; font-weight: lighter;">{{post.keywords}}</p>
+    <!--<p><a class="btn btn-info" href="#" role="button">Read more</a></p>-->
+  </div>
+</div>
+</a>
