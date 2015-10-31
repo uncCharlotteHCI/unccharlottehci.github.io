@@ -5,10 +5,10 @@ name: Jinyue Xia
 title: PhD Student
 faculty: false
 handle: jxia
-filetype: jpg
-link-url: http://stevemacn.github.io 
+img: images/members/jxia.jpg
+link-url: http://stevemacn.github.io
 keywords: javascript, d3, wordpress
-description: This could be used or not. 
+description: This could be used or not.
+category: people
 
 ---
-

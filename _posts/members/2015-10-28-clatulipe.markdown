@@ -5,10 +5,10 @@ name: Celine Latulipe
 title: Associate Professor
 faculty: true
 handle: clatulipe
-filetype: png
-link-url: http://stevemacn.github.io 
+img: images/members/clatulipe.png
+link-url: http://stevemacn.github.io
 keywords: javascript, d3, wordpress
-description: This could be used or not. 
+description: This could be used or not.
+category: people
 
 ---
-

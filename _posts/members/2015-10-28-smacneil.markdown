@@ -5,10 +5,10 @@ name: Stephen MacNeil
 title: PhD Student
 faculty: false
 handle: smacneil
-filetype: png
-website: http://stevemacn.github.io 
+img: images/members/smacneil.png
+website: http://stevemacn.github.io
 keywords: javascript, d3, wordpress
-description: <h2>This could be used or not.</h2> 
+description: <h2>This could be used or not.</h2>
+category: people
 
 ---
-
