@@ -1,0 +1,14 @@
+---
+layout: default
+date: 2015-10-28
+name: Tyler Thomas
+title: PhD Student
+faculty: false
+handle: tthomas
+filetype: png
+link-url: http://stevemacn.github.io 
+keywords: javascript, d3, wordpress
+description: This could be used or not. 
+
+---
+

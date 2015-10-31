@@ -1,0 +1,14 @@
+---
+layout: default
+date: 2015-10-27
+name: Mary Lou Maher
+title: Professor and Chair
+faculty: true
+handle: mmaher
+filetype: png
+link-url: http://stevemacn.github.io 
+keywords: creativity, tangible user interfaces, gesture interaction
+description: This could be used or not. 
+
+---
+
