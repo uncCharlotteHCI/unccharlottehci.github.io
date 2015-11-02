@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2015-10-4
+name: Welcome to UIST!
+title: CLT, NC
+faculty: false
+img: images/uist/UIST-3.png
+website: http://uist.acm.org/uist2015/about
+keywords: 3D printing, prototyping, user interfaces, gesture interaction
+description: "This year our very own Celine Latulipe is the General Chair for the UIST conference that is being hosted in Charlotte, NC. We couldn't be more proud!"
+category: home
+
+---
