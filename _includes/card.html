@@ -1,10 +1,17 @@
 
+
+
 {% if hidden == true %}
 <a href="#{{post.handle}}Modal" style="opacity:0;" class="faculty point col-md-2" data-toggle="modal"></a>
-{% elsif post.faculty == true %}
-<a href="#{{post.handle}}Modal" class="faculty point col-md-2" data-toggle="modal">
+{% elsif post.faculty == true and perpage == 5 %}
+<a href="#{{post.handle}}Modal" style="width:20%;" class="faculty point col-md-2" data-toggle="modal">
+{% elsif post.faculty == true and perpage == 4 %}
+<a href="#{{post.handle}}Modal" style="width:30%;" class="point col-md-2" data-toggle="modal">
+{% elsif  perpage == 5 %}
+<a href="#{{post.handle}}Modal" style="width:20%;" class="point col-md-2" data-toggle="modal">
 {% else %}
-<a href="#{{post.handle}}Modal" class="point col-md-2" data-toggle="modal">
+<a href="#{{post.handle}}Modal" style="width:30%;" class="point col-md-2" data-toggle="modal">
+
 {% endif %}
 
 {% if hidden == true %}
