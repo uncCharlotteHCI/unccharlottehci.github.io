@@ -1,0 +1,12 @@
+---
+layout: default
+date: 2015-10-27
+name: ITIS 6420 Usable Security and Privacy
+credits: 3
+handle: itis6420
+image: images/courses/itis6420.png
+keywords: security, privacy
+description: "Cross-listed as ITIS 8420. Prerequisite: ITIS 6200. Much of the work into security and privacy solutions ignore a critical element: the human who must interact with those solutions. In this course, we investigate privacy and security from a user-centered point of view. How do people think about privacy and security? How do they interact with current applications and solutions? What should be considered in designing user-friendly security systems? This course introduces students to a variety of usability and user interface issues related to privacy and security as well as examine potential designs and solutions. (On demand)"
+category: course
+
+---

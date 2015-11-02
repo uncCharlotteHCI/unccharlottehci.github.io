@@ -1,0 +1,12 @@
+---
+layout: default
+date: 2015-10-27
+name: ITIS 6400 Principles of Human Computer Interaction
+credits: 3
+handle: itis6400
+image: images/courses/itis6400.png
+keywords: interaction, human
+description: "Cross-listed as HCIP 6350.  Prerequisite:  Full graduate standing, or permission of department.  An introduction to Human-Computer Interaction practice and research.   Topics include:  the perceptual, cognitive, and social characteristics of people, as well as methods for learning more about people and their use of computing systems.  The process of interface design, methods of design, and ways to evaluate and improve a design.  Also highlights a number of current and cutting-edge research topics in Human-Computer Interaction.  A balance of design, sociological/psychological, and information systems elements.  (Spring)"
+category: course
+
+---

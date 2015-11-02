@@ -1,0 +1,12 @@
+---
+layout: default
+date: 2015-10-27
+name: ITIS 6360 User-Centered Design and Evaluation
+credits: 3
+handle: itis6360
+image: images/courses/itis6360.png
+keywords: design, evaluation, user
+description: Designed to teach the user-centered design and evaluation process.  In particular, students gain hands-on experience with the process of interface design, methods of design, and ways to evaluate and improve the design of interactive software applications in a course-long project.  Students learn how to employ techniques which ensure that end-users are fully considered at all stages of the design process, from inception to implementation.  Assignments involve planning, designing, and conducting studies to learn about user needs; developing the protocols and instruments for data collection; brainstorming, prototyping, and refining interactive solutions for a user problem; and designing and executing user evaluations of interactive software interfaces. 
+category: course
+
+---

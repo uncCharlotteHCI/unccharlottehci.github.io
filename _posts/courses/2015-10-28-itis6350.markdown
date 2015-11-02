@@ -1,0 +1,12 @@
+---
+layout: default
+date: 2015-10-27
+name: ITIS 6350 Rapid Prototyping Design Patterns
+credits: 3
+handle: itis6350
+image: images/courses/itis6350.png
+keywords: prototype, rapid
+description: "Designed to teach the Rapid Prototyping Design Patterns process.  An active learning course designed to expose students to the many forms of rapid prototyping software and devices.  The focus is on the use of common design patterns and how to represent them quickly and inexpensively for the purpose of allowing many rapid design iterations prior to the coding of solutions.  This course can be considered a communication course where communication between designers and developers occurs through prototyped artifacts and accompanying documentation.  Design patterns can be considered the vocabulary of interaction and interface design, and so learning this vocabulary is an important aspect of the course.  Prototyping in this course spans all types of devices and platforms: desktop, mobile, web, tabletop, tablet, etc.  The theory of rapid prototyping is covered in video lectures that are consumed as part of the student's preparation outside of class.  Class time is devoted to hands-on practice of the various rapid prototyping methods.  Assignments involve applying the techniques learned in class to a variety of problem spaces and platforms, and the peer-critique of other student's designs.  Evaluation is based on both understanding of the theory and on the methodological skills gained, as demonstrated through the individual or paired assignments.  Students are also be expected to write a scholarly article that examines some aspect of prototyping as a part of the design process."
+category: course
+
+---

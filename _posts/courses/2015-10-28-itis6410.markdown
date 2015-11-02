@@ -1,0 +1,12 @@
+---
+layout: default
+date: 2015-10-27
+name: ITIS 6410 Personalization and Recommender Systems
+credits: 3
+handle: itis6410
+image: images/courses/itis6410.png
+keywords: recommender, personalization
+description: "An introduction to the application of personalization and recommender systems techniques in information systems. Topics include: historical, individual and commercial perspectives; underlying approaches to content-based and collaborative recommendation techniques for building user models; acceptance issues; and casestudies drawn from research prototypes and commercially deployed systems."
+category: course
+
+---

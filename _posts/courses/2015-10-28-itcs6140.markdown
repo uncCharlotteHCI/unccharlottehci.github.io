@@ -1,0 +1,12 @@
+---
+layout: default
+date: 2015-10-27
+name: ITCS 6140 Data Visualization
+credits: 3
+handle: itcs6140
+image: images/courses/itcs6140.png
+keywords: visualization, data
+description: Emphasis on the methodology and application of data visualization to scientific and engineering data; data types and models; visualization methods; volume visualization; scalar, vector and tensor fields; multivariate visualization; visualization systems and models; visualization applications; visualization software and hardware; research issues; and future trends.
+category: course
+
+---

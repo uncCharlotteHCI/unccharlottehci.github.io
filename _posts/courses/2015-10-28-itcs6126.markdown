@@ -1,0 +1,11 @@
+---
+layout: default
+date: 2015-10-27
+name: ITCS 6126 Large Scale Information Visualization
+credits: 3
+handle: itcs6126
+keywords: information, visualization
+description: Concept, theory, design principles, data processing techniques, and visual metaphors and interaction techniques for massive, multi-dimensional, multi-source, time-varying information exploration. 
+category: course
+
+---
