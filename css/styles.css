@@ -212,6 +212,7 @@ img.logo.uncc {
 }
 
 .point.col-md-2 {
+        outline-style: none;
 		width:20%;
 		padding:10px;
 		margin:0px;
