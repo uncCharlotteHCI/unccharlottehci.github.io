@@ -17,23 +17,26 @@
 {% if hidden == true %}
 {% else %}
 <div class="thumbnail">
-  <div class="cropWrap">
-      {% if post.img %}
-      <img class="crop" src="{{site.url}}/{{post.img}}"
-    alt="{{post.name}}" />
-        {% else %}
-        <div class="noPhoto"></div>
-        {% endif %}
-    </div>
-  <div class="caption">
+  <div class="overlay">
+    <div class="cropWrap">
+        {% if post.img %}
+        <img class="crop" src="{{site.url}}/{{post.img}}"
+      alt="{{post.name}}" />
+          {% else %}
+          <div class="noPhoto"></div>
+          {% endif %}
+      </div>
+    <div class="caption">
 
-    <h3>{{post.name}}</h3>
-    <p>
-      {{post.title}}
-    </p>
-    <p style="margin-top:15px; margin-bottom:0px; font-weight: lighter;">{{post.keywords}}</p>
-    <!--<p><a class="btn btn-info" href="#" role="button">Read more</a></p>-->
-  </div>
+      <h3>{{post.name}}</h3>
+      <p>
+        {{post.title}}
+      </p>
+      <p style="margin-top:15px; margin-bottom:0px; font-weight: lighter;">{{post.keywords}}</p>
+      <!--<p><a class="btn btn-info" href="#" role="button">Read more</a></p>-->
+    </div>
+</div>
+
 </div>
 </a>
 {% endif %}
