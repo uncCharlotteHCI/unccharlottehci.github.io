@@ -1,5 +1,6 @@
 title: UNCC HCI Website
 markdown: kramdown
+permalink: pretty
 url: http://unccharlottehci.github.io
 description: The Human-Computer Interaction Lab at UNC Charlotte is directed by Dr. Celine Latulipe, Dr. Heather Lipford, Dr. Mary Lou Maher, and Dr. David Wilson. Our research covers a broad range of areas in HCI, including Creativity Support Tools, Novel Interactions, Social Networking, and Privacy/Security.
 author:
