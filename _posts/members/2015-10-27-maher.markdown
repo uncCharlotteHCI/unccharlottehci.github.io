@@ -6,9 +6,9 @@ title: Professor and Chair
 faculty: true
 handle: mmaher
 img: images/members/mmaher.png
-link-url: http://stevemacn.github.io
+website: http://maryloumaher.net/
 keywords: creativity, tangible user interfaces, gesture interaction
-description: This could be used or not.
+description: "Chair of the Department of Software and Information Systems, College of Computing and Informatics, UNC Charlotte: The Department of Software and Information Systems (SIS) is best known for its teaching and research in intelligent systems, human centered design, and cyber security. The Department has 20 faculty, 55 PhD students, 200 MS students, and 330 undergraduate students. SIS contributes significantly to regional and international efforts in Cybersecurity, Data Science, and CS Education research."
 category: people
 
 ---
