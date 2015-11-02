@@ -11,9 +11,13 @@
 {% else %}
 <div class="thumbnail">
   <div class="cropWrap">
-  <img class="crop" src="{{post.img}}"
+      {% if post.img %}
+      <img class="crop" src="{{post.img}}"
     alt="{{post.name}}" />
-  </div>
+        {% else %}
+        <div class="noPhoto"></div>
+        {% endif %}
+    </div>
   <div class="caption">
 
     <h3>{{post.name}}</h3>

@@ -19,6 +19,12 @@ img.logo.uncc {
 	margin:0px;
 }
 
+.noPhoto {
+	height:100%;
+	background-color:#efbf2d;
+	background-color:#0C6F3E;
+}
+
 .caption {
 	height:130px;
 	background-color:#efbf2d;
