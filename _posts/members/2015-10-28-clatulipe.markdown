@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2015-10-27
+date: 2015-10-2
 name: Celine Latulipe
 title: Associate Professor
 faculty: true
