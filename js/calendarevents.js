@@ -81,7 +81,7 @@ function loadCalendar (events) {
 	var options = {
 		events_source: events,
 		view: 'month',
-		tmpl_path: 'tmpls/',
+		tmpl_path: '/tmpls/',
 		tmpl_cache: false,
 		onAfterEventsLoad: function(events) {
 			if(!events) {
