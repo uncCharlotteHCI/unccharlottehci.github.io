@@ -1,0 +1,46 @@
+---
+layout: default
+title: carousel
+---
+<h2>HELLO!!!</h2>
+{% for category in site.tags %}
+	<h2>category</h2>
+{% endfor %}
+
+<div class="carousel-inner" role="listbox">
+	{% assign sitePosts = site.posts | sort: 'date' %}
+	{% for post in sitePosts | where: "category", "people" %}
+	  {% assign loopindex = forloop.index | modulo: 5 %}
+		{% if forloop.index == 1 %}
+			<div class="item active">
+				<div class = "container">
+					<div class = "row vertical-align">
+					{% include card.html %}
+
+		{% elsif loopindex == 1 %}
+					</div>
+				</div>
+			</div>
+			<div class="item">
+				<div class = "container">
+					<div class = "row vertical-align">
+						{% include card.html %}
+		{% else %}
+				{% include card.html %}
+		{% endif %}
+		{% assign leftovers = loopindex | minus: 1 %}
+	{% endfor %}
+
+	<!--Card Cleanup: Super Janky Solution - Fix Later-->
+	{% for i in (1..leftovers) %}
+		{% include card.html %}
+	{% endfor %}
+	<!--Div Cleanup: Super Janky Solution - Fix Later-->
+			</div>
+		</div>
+	</div>
+</div>
+
+{% for post in site.posts %}
+	{% include modal.html %}
+{% endfor %}

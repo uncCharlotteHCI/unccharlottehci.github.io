@@ -1,0 +1,16 @@
+<div class="point col-md-3">
+	<div class="panel">
+	<div class="panel-heading">
+		<h3 class="panel-title">Members</h3>
+	</div>
+	<div class="panel-body scrollable-menu">
+		<ul class="list-group">
+			{% for post in sitePosts %}
+			<li class="list-group-item">
+				<h4 class="list-group-item-heading"><a href="#{{post.handle}}Modal" data-toggle="modal">{{post.name}}</a></h4>
+			</li>
+			{% endfor}
+		</ul>
+	</div>
+</div>
+</div>

@@ -12,7 +12,7 @@
 <div class="thumbnail">
   <div class="cropWrap">
       {% if post.img %}
-      <img class="crop" src="{{post.img}}"
+      <img class="crop" src="{{site.url}}/{{post.img}}"
     alt="{{post.name}}" />
         {% else %}
         <div class="noPhoto"></div>
