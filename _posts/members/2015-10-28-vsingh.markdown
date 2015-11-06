@@ -6,9 +6,9 @@ title: Post Doc
 faculty: false
 handle: vsingh
 img: images/members/vsingh.png
-website: 
-keywords: 
-description: 
+website: vikashsingh.com
+keywords: collaboration, video, collaborative systems, MOOCs
+description: My research involves the design, development and evaluation of collaborative systems and the study of socio-technical impacts of intervention of such syestems in work flow. I have been deeply involved in various National Science Foundation (NSF) funded projects. I have designed, developed, implemented and evaluated the Video Collaboratory application which is a software to support asynchronous collaborative processes around videos.
 category: people
 
 ---
