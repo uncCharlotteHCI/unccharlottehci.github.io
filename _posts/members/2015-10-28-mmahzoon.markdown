@@ -1,15 +1,14 @@
 ---
 layout: default
 date: 2015-10-27
-name: Mohammad Mahzoon
+name: Mohammad Javad Mahzoon
 title: PhD Student
 faculty: false
 handle: mmahzoon
-filetype: png
-link-url: http://stevemacn.github.io 
-
-keywords: javascript, d3, wordpress
-description: This could be used or not. 
+img: images/members/mmahzoon.png
+website: http://webpages.uncc.edu/~mmahzoon/index.html
+keywords: AI, machine learning, cognition, 
+description: I started PhD in UNCC from Fall 2013 under supervision of <a href="http://maryloumaher.net">Dr. Mary Lou Maher</a>, working on <a href="/research#naturenetModal" >NatureNet</a>, <a href="/research#marionetteModal" >the Willful Marionette</a> projects, and finding interesting patterns in citizen science data. My general interests are <ul><li>Computational cognitive modeling</li><li>Data mining and knowledge discovery</li><li>Machine learning and pattern recognition</li></ul>
+category: people
 
 ---
-

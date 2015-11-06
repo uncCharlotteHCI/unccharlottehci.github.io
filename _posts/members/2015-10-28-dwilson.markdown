@@ -1,0 +1,14 @@
+---
+layout: default
+date: 2015-10-27
+name: David Wilson
+title: Faculty
+faculty: true
+handle: dwilson
+img: images/members/dwilson.png
+website: 
+keywords: Recommender Systems, case-based reasoning, collaborative systems
+description: 
+category: people
+
+---

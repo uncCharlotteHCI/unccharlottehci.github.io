@@ -1,0 +1,15 @@
+---
+layout: default
+date: 2015-10-27
+name: Nasheen Nur
+title: PhD Student
+faculty: false
+handle: nnur
+img: images/members/nnur.png
+website: http://webpages.uncc.edu/nnur/
+keywords: Application and Network Security, Usable Security and Privacy
+description: "My main research interests are in the areas of machine learning, image processing, data mining and knowledge representation. I have done my undergraduate research on the topic \"Content Based Image Retrieval Using Relevance Feedback\" where I tried to uniquely improve retrieval result by my integration of relevance feedback in the system. 
+I am working in a project named \"ASIDE\"(Application Security plug-in for Integrated Development Environment), an Eclipse plug-in which focuses on helping the developers to detect software vulnerabilities,write secure code and educating students about secure programming and good coding practices. I am exploring both security and HCI areas under Dr. Bill Chu who is guiding me in the security aspect of ASIDE and Dr. Heather Lipford who is guiding me in the HCI aspect."
+category: people
+
+---

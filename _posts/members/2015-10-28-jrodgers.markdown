@@ -1,11 +1,11 @@
 ---
 layout: default
 date: 2015-10-27
-name: Jinyue Xia
+name: James Rodgers
 title: PhD Student
 faculty: false
-handle: jxia
-img: images/members/jxia.png
+handle: jrodgers
+image: images/members/jrodgers.png
 website: 
 keywords: 
 description: 
