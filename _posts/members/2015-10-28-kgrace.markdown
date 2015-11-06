@@ -1,9 +1,9 @@
 ---
 layout: default
-date: 2015-10-27
+date: 2015-10-6
 name: Kazjon Grace
 title: Research Associate
-faculty: false
+faculty: true
 handle: kgrace
 img: images/members/kgrace.png
 website: 

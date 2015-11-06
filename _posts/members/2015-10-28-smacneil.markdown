@@ -1,13 +1,13 @@
 ---
 layout: default
-date: 2015-10-27
+date: 2015-10-9
 name: Stephen MacNeil
 title: PhD Student
 faculty: false
 handle: smacneil
 img: images/members/smacneil.png
 website: http://stevemacn.github.io
-keywords: javascript, d3, wordpress
+keywords: exploration, collaboration, visualization
 description: 
 category: people
 
