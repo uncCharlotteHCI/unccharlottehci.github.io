@@ -1,11 +1,11 @@
 ---
 layout: default
 date: 2015-10-27
-name: Jinyue Xia
+name: Lina Lee
 title: PhD Student
 faculty: false
-handle: jxia
-img: images/members/jxia.png
+handle: llee
+image: images/members/llee.png
 website: 
 keywords: 
 description: 

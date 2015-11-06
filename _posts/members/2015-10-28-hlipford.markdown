@@ -1,0 +1,14 @@
+---
+layout: default
+date: 2015-10-27
+name: Heather Lipford
+title: Faculty
+faculty: true
+handle: hlipford
+img: images/members/hlipford.png
+website: http://hci.uncc.edu/~richter
+keywords: Usable security and privacy
+description: "My general research interests are Human-Computer Interaction (HCI), with focus in Usable Security and Privacy. My research has focused on privacy on social network sites and mobile phones, interactive secure programming, and education in usable security and secure programming."
+category: people
+
+---

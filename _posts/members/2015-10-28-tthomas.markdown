@@ -1,14 +1,14 @@
 ---
 layout: default
-date: 2015-10-28
+date: 2015-10-27
 name: Tyler Thomas
 title: PhD Student
 faculty: false
 handle: tthomas
-filetype: png
-link-url: http://stevemacn.github.io 
-keywords: javascript, d3, wordpress
-description: This could be used or not. 
+img: images/members/tthomas.png
+website: http://www.tylerthomaswebsite.net
+keywords: Usable Security, Application Security, Software Engineering
+description: "IT security problems are a big concern today. To address this problem, I am researching various novel techniques to help software developers detect security vulnerabilities as they are writing code. By using a new annotation technique, dubbed interactive annotation, input from developers can be used to enable tools to assist developers in the detection of application-specific vulnerabilities. Specifically, my research is focused on advancing these techniques."
+category: people
 
 ---
-

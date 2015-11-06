@@ -1,11 +1,11 @@
 ---
 layout: default
 date: 2015-10-27
-name: Jinyue Xia
+name: Sarah Abdellahi
 title: PhD Student
 faculty: false
-handle: jxia
-img: images/members/jxia.png
+handle: sabdellahi
+image: images/members/sabdellahi.png
 website: 
 keywords: 
 description: 

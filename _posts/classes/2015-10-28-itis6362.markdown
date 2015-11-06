@@ -1,10 +1,10 @@
 ---
 layout: default
 date: 2015-10-27
-name: ITIS 6362 Information Technology Ethics, Policy, and Security
+name: Information Technology Ethics, Policy, and Security
 credits: 3
 handle: itis6362
-image: images/courses/itis6352.png
+img: images/courses/itis6362.png
 keywords: ethics, policy, security, inforamtion
 description: "Prerequisite: Permission of department Management of Information technology involves understanding the broader issues of ethics, policy and security. The growth in Internet usage and E-commerce require IT professionals to consider issues pertaining to data protection, regulation, and appropriate use and dissemination of information. The course is designed to be team-taught by professionals in the field. (Fall)"
 category: course

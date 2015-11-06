@@ -1,10 +1,10 @@
 ---
 layout: default
 date: 2015-10-27
-name: ITIS 6216 Introduction to Cognitive Science
+name: Introduction to Cognitive Science
 credits: 3
 handle: itis6216
-image: images/courses/itis6216.png
+img: images/courses/itis6216.png
 keywords: cognitive
 description: Multiple perspectives on the study of intelligent systems. Broad coverage of such topics as philosophy of mind; human memory processes; reasoning and problem solving; artificial intelligence; language processing (human and machine); neural structures and processes; and vision. Also included is participation in the cognitive science seminar.
 category: course
