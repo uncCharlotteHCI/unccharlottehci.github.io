@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2015-10-27
+date: 2015-10-8
 name: Carlos Seminario
 title: Post Doc
 faculty: false

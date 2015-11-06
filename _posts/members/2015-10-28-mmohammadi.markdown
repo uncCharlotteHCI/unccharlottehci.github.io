@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2015-10-27
+date: 2015-10-14
 name: Mahmoud Mohammadi
 title: PhD Student
 faculty: false

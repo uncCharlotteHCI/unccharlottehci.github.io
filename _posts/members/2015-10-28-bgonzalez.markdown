@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2015-10-27
+date: 2015-10-6
 name: Berto Gonzalez
 title: Teaching Faculty
 faculty: true
