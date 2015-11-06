@@ -1,0 +1,14 @@
+---
+layout: default
+date: 2015-10-27
+name: Lina Lee
+title: PhD Student
+faculty: false
+handle: llee
+image: images/members/llee.png
+website: 
+keywords: 
+description: 
+category: people
+
+---

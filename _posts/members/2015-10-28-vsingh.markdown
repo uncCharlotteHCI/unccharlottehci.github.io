@@ -1,0 +1,14 @@
+---
+layout: default
+date: 2015-10-27
+name: Vikash Singh
+title: Post Doc
+faculty: false
+handle: vsingh
+img: images/members/vsingh.png
+website: 
+keywords: 
+description: 
+category: people
+
+---

@@ -1,0 +1,14 @@
+---
+layout: default
+date: 2015-10-27
+name: James Rodgers
+title: PhD Student
+faculty: false
+handle: jrodgers
+image: images/members/jrodgers.png
+website: 
+keywords: 
+description: 
+category: people
+
+---

@@ -1,0 +1,14 @@
+---
+layout: default
+date: 2015-10-27
+name: Jin Goog Kim
+title: PhD Student
+faculty: false
+handle: llee
+image: images/members/jkim.png
+website: 
+keywords: 
+description: 
+category: people
+
+---

@@ -8,7 +8,7 @@ handle: smacneil
 img: images/members/smacneil.png
 website: http://stevemacn.github.io
 keywords: javascript, d3, wordpress
-description: <h2>This could be used or not.</h2>
+description: 
 category: people
 
 ---

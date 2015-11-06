@@ -1,0 +1,14 @@
+---
+layout: default
+date: 2015-10-27
+name: Ambarish Regmi
+title: PhD Student
+faculty: false
+handle: aregmi
+img: images/members/aregmi.png
+website: 
+keywords: 
+description: 
+category: people
+
+---

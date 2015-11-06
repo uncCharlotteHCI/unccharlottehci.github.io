@@ -1,10 +1,10 @@
 ---
 layout: default
 date: 2015-10-27
-name: ITIS 6011 Interaction Design Studio
+name: Interaction Design Studio
 credits: 3
 handle: itis6011
-image: images/courses/itis6011.png
+img: images/courses/itis6011.png
 keywords: interaction, design, gesture, tangible
 description: "Prerequisites: graduate standing, or permission of department. This course is a studio approach to teaching topics in interaction design. Aspects of interaction design taught in the studio include: gesture-based interaction, tangible interaction, large public display interaction, tabletop interaction, multi-touch tablet interaction, and human-robot interaction. In this course students will learn how to apply a theoretical understanding of some aspect of interaction design to the study of existing designs and the development of a new design. Outcomes include writing a literature review about interaction design, executing users studies and critiques of existing designs, and developing and implementing a new interaction design for a specific purpose. This course is repeatable for credit. (Spring)"
 category: course

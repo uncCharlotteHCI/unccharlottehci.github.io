@@ -1,14 +1,14 @@
 ---
 layout: default
-date: 2015-10-28
+date: 2015-10-27
 name: Jinyue Xia
 title: PhD Student
 faculty: false
 handle: jxia
-img: images/members/jxia.jpg
-link-url: http://stevemacn.github.io
-keywords: javascript, d3, wordpress
-description: This could be used or not.
+img: images/members/jxia.png
+website: 
+keywords: 
+description: 
 category: people
 
 ---
