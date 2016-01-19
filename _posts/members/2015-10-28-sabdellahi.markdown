@@ -5,9 +5,9 @@ name: Sarah Abdellahi
 title: PhD Student
 faculty: false
 handle: sabdellahi
-image: images/members/sabdellahi.png
+img: images/members/sabdellahi.jpg
 website: 
-keywords: 
+keywords: "Crowdsourcing, Cognition, Design" 
 description: 
 category: people
 
