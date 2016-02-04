@@ -4,7 +4,6 @@ date: 2015-10-1
 name: "Invited Speaker<br/> Dr. Margaret Burnett"
 title: Jan 22nd @ 3pm <br/> Woodward Hall 106
 faculty: false
-image: images/uist/UIST-1.png
 website: http://web.engr.oregonstate.edu/~burnett/
 description: "
 <h3>Abstract</h3>
