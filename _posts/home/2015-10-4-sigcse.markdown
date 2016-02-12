@@ -1,12 +1,12 @@
 ---
 layout: default
-date: 2015-10-1
+date: 2015-10-4
 name: The lab goes to SIGCSE!
 title: 2 papers were accepted
 faculty: true
 handle: sigcse
 img: images/news/sigcse.png
-website: http://sigcse2016.sigcse.org/ 
+website: http://sigcse2016.sigcse.org/
 description: "This year we had some excellent work accepted at SIGCSE! <br />
 <br />
 <h5>1. Exploring   Lightweight Teams   in  a   Distributed Learning    Environment
@@ -14,6 +14,6 @@ description: "This year we had some excellent work accepted at SIGCSE! <br />
 </h5><h5>3. Leveraging  Context to  Create  Opportunistic   Co-Located  Learning    Environments
 </h5><h5>4. Teaching    Computational   Thinking    Through Bio-Design</h5>
 "
-category: home 
+category: home
 
 ---
