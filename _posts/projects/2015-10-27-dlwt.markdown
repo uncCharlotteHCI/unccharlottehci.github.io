@@ -1,18 +1,32 @@
 ---
 layout: default
-date: 2015-10-3
+date: 2015-10-10
 name: Distributed Lightweight Teams
 title: MacNeil and Latulipe
-faculty: true
+faculty: false
 handle: dlwt
 img: images/research/dis-lwt.png
-link-url: http://stevemacn.github.io
+website: http://dl.acm.org/citation.cfm?id=2839509.2844577
 keywords: CS ED, Peer Learning, Collaboration
-description: "Our work build on Dr. Latulipe's Lightweight Teams strategy for
-engaging first year students in a stress-free active learning environment. We
-perform an in-lab and in-the-wild exploration of collaborative peer-instruction
-techniques to determine what affect if any remote communication plays on
-Lightweight Teams."
+description: 'Lightweight Teams are a pedagogical design pattern that 
+focus on creating low-stress collaborative learning experiences for 
+students. These teams focus on low grade weight and ample social interaction. 
+<br /><br />
+We have extended the original idea to include low-stakes teams and distributed 
+lightweight teams.
+
+<h4 style="clear:both;">Related Publications</h4>
+<a style="margin-bottom:10px; width:100%;" href="http://dl.acm.org/citation.cfm?id=2839509.2844577">
+Exploring Lightweight Teams in a Distributed Learning Environment</a>
+<br/>
+<a style="margin-bottom:10px; width:100%;" href="http://dl.acm.org/citation.cfm?id=2787727&CFID=745339079&CFTOKEN=37129259">
+Learning in Distributed Low-Stakes Teams
+</a>
+<br/>
+<a  style="margin-bottom:10px;" href="http://dl.acm.org/citation.cfm?id=2677240&CFID=745339079&CFTOKEN=37129259">
+Structuring Flipped Classes with Lightweight Teams and Gamification
+</a>' 
+
 category: research
 
 ---
