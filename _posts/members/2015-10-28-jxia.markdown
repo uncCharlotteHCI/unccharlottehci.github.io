@@ -6,9 +6,9 @@ title: PhD Student
 faculty: false
 handle: jxia
 img: images/members/jxia.png
-website: 
-keywords: 
-description: 
+website: http://xiajinyue.info
+keywords: video interaction, video collaboration
+description: I am interested in user interaction with online videos, multiple video interaction and video collaboration. I also like iOS programming and web programming. Projects - <a href="https://uncc.videocollaboratory.com" target="_blank"> Video Collaboratory </a>, <a href="/research#naturenetModal">NatureNet</a>
 category: people
 
 ---
