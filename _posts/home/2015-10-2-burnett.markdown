@@ -1,16 +1,18 @@
 ---
 layout: default
-date: 2015-10-1
+date: 2015-10-2
 name: "Invited Speaker<br/> Dr. Margaret Burnett"
 title: Jan 22nd @ 3pm <br/> Woodward Hall 106
 faculty: false
+handle: burnett
+image: images/uist/UIST-1.png
 website: http://web.engr.oregonstate.edu/~burnett/
 description: "
 <h3>Abstract</h3>
 Gender inclusiveness in the software workforce is receiving a lot of attention these days, but it overlooks a potentially critical factor—the software itself. Research into how individual differences cluster by gender shows that males and females tend to work differently with software that aims to help people solve problems (e.g., tools for debugging, for end-user programming, for game-based learning, and for visualizing information). However, many features of problem-solving software are (inadvertently) designed around the way males tend to problem-solve. In this talk, I’ll explain 5 facets of gender inclusiveness in software and how they tie to a large body of foundational work from computer science, psychology, education, communications, and women’s studies. I’ll also present emerging work on our GenderMag method, an inspection method that encapsulates these 5 facets into practitioner-ready form.  Emerging empirical results suggest that GenderMag is remarkably effective at enabling software practitioners to pinpoint gender inclusiveness issues in their own software.   
 <h3>Speaker Bio</h3>
 Margaret Burnett’s research on gender inclusiveness in software - especially in software tools for programming and problem-solving - spans over 10 years. Prior to this work, most gender investigations into software had addressed only gender-targeted software, such as video games for girls. Burnett and her team systematically debunked misconceptions of gender neutrality in a variety of software platforms, and then devised software features that help avert the identified problems. She has reported these results in over 30 publications, and has presented keynotes and invited talks on this topic in 8 countries. She is an ACM Distinguished Scientist and an ACM Distinguished Speaker. She serves on a variety of HCI and Software Engineering committees and editorial boards, and on the Advisory Board of the Academic branch of National Center for Women & Information Technology (NCWIT).
-<h4>Speaker's talk video: https://youtu.be/RcVO_dzNic0 </h4>
+<h4>Speaker's talk video: <a href='https://youtu.be/RcVO_dzNic0'>YouTube</a> </h4>
 "
 category: home
 keywords:"GenderMag: A software process to find gender-inclusiveness issues in software"

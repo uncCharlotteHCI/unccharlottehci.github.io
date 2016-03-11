@@ -1,0 +1,25 @@
+---
+layout: default
+date: 2015-10-1
+name: "Invited Speaker<br/> Vicki Hanson"
+title: April 1st @ 3pm <br/> Woodward Hall 106
+faculty: false
+handle: vicki
+img: images/speaker/vicki.jpg
+website:
+description: "
+<h3>Abstract</h3>
+Historically, computing has been envisioned as a way of augmenting human abilities. Nowhere is such a computing goal more evident than in the field of accessibility where we seek to create devices and software to address needs of people who through age or disability face exclusion from full societal participation. In creating accessible technology and novel accessibility tools, research has not only facilitated digital interactions and quality of life needs for many, but also has served to advance the field of computing more generally. The needs of diverse users can and should inform research considerations not only for accessibility specialists, but also more broadly for all who seek to drive the uptake of technology.
+<h3>Talk Title</h3>
+Computing for Humans
+<h3>Bio </h3>
+Vicki Hanson is a Distinguished Professor at RIT within the HCI and Accessibility research groups. She also is Chair of Inclusive Technologies at the University of Dundee where she leads multiple efforts related to inclusion of older adults and individuals with disabilities.  From 1986 – 2009 she was a Research Staff Member and Manager at IBM’s T. J. Watson Research Center in New York, founding the Accessibility Research Group in 2000.
+
+Her work on accessibility stemmed from language and educational access questions and over the years has grown to include development efforts to support the aging population and people with diverse abilities.  For these efforts she has been recognized both by industry and academic honors, including an IBM Corporate Award, the Wolfson Research Merit Award from the Royal Society, the Social Impact Award from ACM SIGCHI and the ACM SIGACCESS Award for Contributions to Computing and Accessibility.
+
+She currently serves as the ACM Vice President and as a member of the ACM-W Europe Executive Committee and the ACM SIGCHI Executive Committee. She is Past Chair of SIGACCESS and was Co-Founder and Editor-in-Chief of ACM Transitions on Accessible Computing. She serves on Fellows Committees for ACM and the Royal Society of Edinburgh and has been active in conference organizing and program committees for ASSETS, CHI, and several other ACM conferences.
+
+She is a Fellow of the ACM, a Chartered Fellow of the British Computer Society, and a Fellow of the Royal Society of Edinburgh.
+"
+category: home
+---
