@@ -11,6 +11,7 @@ function handleClientLoad() {
 * Initiate auth flow in response to user clicking authorize button.
 *
 * @param {Event} event Button click event.
+*
 */
 function handleAuthClick(event) {
 	gapi.auth.authorize(
@@ -47,37 +48,39 @@ function listUpcomingEvents() {
 	  'orderBy': 'startTime'
 	});
 	request.execute(function(resp) {
-	  	var events = resp.items;
-	  	var calendarEvents = [];
-	  	if (events.length > 0) {
-	    	for (i = 0; i < events.length; i++) {
-	      		var event = events[i];
-	      		var calendarEvent = {};
-	      		calendarEvent.title = event.summary;
-	      		calendarEvent.id = i + 1;
-	      		calendarEvent.class = "event-important";
-	      		var when = event.start.dateTime;
-	      		if (!when) {
-	        		when = event.start.date;
-	      		}
-	      		calendarEvent.start = new Date(when).getTime();
-	      		var end = event.end.dateTime;
-	      		if (!end) {
-	      			end = event.end.date;
-	      		}
-	      		calendarEvent.end = new Date(end).getTime();
-
-	      		calendarEvents.push(calendarEvent);
-	    	}
+  	var events = resp.items;
+  	var calendarEvents = [];
+  	if (events.length > 0) {
+    	for (i = 0; i < events.length; i++) {
+      		var event = events[i];
+      		var calendarEvent = {};
+      		calendarEvent.title = event.summary;
+      		calendarEvent.id = i + 1;
+      		calendarEvent.class = "event-important";
+      		var start = event.start.dateTime;
+      		if (!start) {
+        		start = event.start.date;
+      		}
+          var startDate = new Date(start);
+      		calendarEvent.start = startDate.getTime();
+      		var end = event.end.dateTime;
+      		if (!end) {
+      			end = event.end.date;
+      		}
+          var endDate = new Date(end);
+      		calendarEvent.end = endDate.getTime();
+          calendarEvent.title += ' ' + formatTime(startDate) + ' - ' + formatTime(endDate);
+      		calendarEvents.push(calendarEvent);
+    	}
 		} else {
-	    	console.log('No upcoming events found.');
-	  	}
-	  	$(".loading-spinner").remove();
-	  	loadCalendar(calendarEvents);
+    	console.log('No upcoming events found.');
+  	}
+  	$(".loading-spinner").remove();
+  	loadCalendar(calendarEvents);
 	});
 }
 
-function loadCalendar (events) {
+function loadCalendar(events) {
 	var options = {
 		events_source: events,
 		view: 'month',
@@ -87,14 +90,6 @@ function loadCalendar (events) {
 			if(!events) {
 				return;
 			}
-			var list = $('#eventlist');
-			list.html('');
-
-			$.each(events, function(key, val) {
-				$(document.createElement('li'))
-					.html('<a href="' + val.url + '">' + val.title + '</a>')
-					.appendTo(list);
-			});
 		},
 		onAfterViewLoad: function(view) {
 			$('.page-header h3').text(this.getTitle());
@@ -123,4 +118,19 @@ function loadCalendar (events) {
 			calendar.view($this.data('calendar-view'));
 		});
 	});
+}
+
+function formatTime(date) {
+  var hh = date.getHours();
+  var dd = "AM";
+  var h = hh;
+  if (h >= 12) {
+    h = hh - 12;
+    dd = "PM";
+  }
+  if (h == 0) {
+    h = 12;
+  }
+
+  return h + dd;
 }
