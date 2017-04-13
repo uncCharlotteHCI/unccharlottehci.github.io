@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2015-10-4
+date: 2015-10-24
 name: The lab goes to SIGCSE!
 title: 2 papers were accepted
 faculty: true

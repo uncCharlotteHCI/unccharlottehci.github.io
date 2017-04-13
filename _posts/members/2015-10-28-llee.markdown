@@ -1,14 +1,14 @@
 ---
 layout: default
-date: 2015-10-27
+date: 2017-04-12
 name: Lina Lee
 title: PhD Student
 faculty: false
 handle: llee
-image: images/members/llee.png
-website: 
+img: images/members/llee.png
+website: http://llee52.wixsite.com/linalee
 keywords: 
-description: 
+description: "Lina Lee is a Ph.D. student in the College of Computing and Informatics at UNC Charlotte. She received a B.S. and a M.S. in Housing and Interior Design from Kyung Hee University in South Korea. After then, she received a dual degree: M.S. in Architecture and M.S. in Information Technology Software at UNC Charlotte. She is a member of the InDe Lab and HCI Lab at UNC Charlotte. Her research interest is in the area of Human-Computer Interaction with particular focus on designing user experiences and intelligent user interfaces for the elderly with gesture-based interactive techniques that enhance public engagement."
 category: people
 
 ---
