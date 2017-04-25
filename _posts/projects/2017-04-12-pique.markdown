@@ -1,0 +1,11 @@
+---
+layout: default
+date: 2015-10-10
+name: Pique
+title: Personalized Curiosity Engine
+faculty: fales
+handle: pique
+keywords: Personalized Learning, Curiosity
+description: 'Pique , short for Personalized Curiosity Engine is a cognitive system which build a representation of the learner&#39;s interests and knowledge, and use this to recommend sequences of resources that are tailored to increase motivation and learning. Pique simulates the learner&#39;s curiosity using a metacognitive model of expectation and reflection, and makes recommendations that will stimulate that curiosity. <br /> <img src="../images/research/pique.png" style="max-width:550px;margin-top:15px;" /> '
+category: research
+---

@@ -37,6 +37,11 @@ We adopt the card metaphor for our UI design. Each card has a configuration file
 * keywords: CS ED, Peer Learning, Collaboration, Social
 * description: "The Connected Learning project develops, deploys, and publishes innovative teaching and assessment practices across an undergraduate computing curriculum demonstrating the applicability and efficacy of these practices across a student body diverse in terms of socio-economic status and demographics. The project advances the knowledge and assessment base for scaling educational innovation efforts in computing. We will examine the key factors in building a sustainable practice of educational innovation, which includes faculty attitudinal shifts and infrastructures to support and sustain learning practices."
 
+## Contributors
+
+[Jinyue Xia](http://github.com/jyxia)
+[Mohammad Mahzoon](http://github.com/mahzoon)
+[Stephen MacNeil](http://github.com/stevemacn)
 
 ## Contact
 

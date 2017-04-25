@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2015-10-2
+date: 2015-10-12
 name: "Invited Speaker<br/> Dr. Margaret Burnett"
 title: Jan 22nd @ 3pm <br/> Woodward Hall 106
 faculty: false

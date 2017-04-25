@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2015-10-2
+date: 2015-10-12
 name: "Invited Speaker<br/> Anita Sarkeesian"
 title: Feb 18th @ 7pm <br/> McKnight Theater, Cone Center
 handle: sarkeesian

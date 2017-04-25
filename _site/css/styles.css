@@ -244,8 +244,8 @@ img.logo.uncc {
 	max-width:300px;
     height:100%;
 	margin-bottom:0px;
-    transition: all 0.25s;
-    -webkit-transition: all .25s;
+    /*transition: all 0.25s;*/
+    /*-webkit-transition: all .25s;*/
     box-shadow: 0 8px 14px 0 rgba(0,0,0,0.24),0 6px 20px 0 rgba(0,0,0,0.19) !important;    
 border: 0;}
 

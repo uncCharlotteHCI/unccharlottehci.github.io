@@ -4,7 +4,7 @@ date: 2015-10-27
 name: Jin Goog Kim
 title: PhD Student
 faculty: false
-handle: llee
+handle: jkim
 image: images/members/jkim.png
 website: 
 keywords: 
