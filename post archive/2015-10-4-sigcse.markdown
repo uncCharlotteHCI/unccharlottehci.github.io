@@ -1,0 +1,19 @@
+---
+layout: default
+date: 2015-10-24
+name: The lab goes to SIGCSE!
+title: 2 papers were accepted
+faculty: true
+handle: sigcse
+img: images/news/sigcse.png
+website: http://sigcse2016.sigcse.org/
+description: "This year we had some excellent work accepted at SIGCSE! <br />
+<br />
+<h5><a style='color:black;' href='http://dl.acm.org/citation.cfm?id=2839509.2844577'>1. Exploring   Lightweight Teams   in  a   Distributed Learning    Environment</a>
+</h5><h5>2. The Video   Collaboratory   as  a   Learning    Environment
+</h5><h5>3. Leveraging  Context to  Create  Opportunistic   Co-Located  Learning    Environments
+</h5><h5>4. Teaching    Computational   Thinking    Through Bio-Design</h5>
+"
+category: home
+
+---
