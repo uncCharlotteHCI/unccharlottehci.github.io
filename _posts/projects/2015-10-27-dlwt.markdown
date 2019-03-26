@@ -10,7 +10,7 @@ website: http://dl.acm.org/citation.cfm?id=2839509.2844577
 keywords: CS ED, Peer Learning, Collaboration
 description: 'Lightweight Teams are a pedagogical design pattern that 
 focus on creating low-stress collaborative learning experiences for 
-students. These teams focus on low grade weight and ample social interaction. 
+students. These teams feature frequent activities with low grade weight and ample social interaction. 
 <br /><br />
 We have extended the original idea to include low-stakes teams and distributed 
 lightweight teams.
